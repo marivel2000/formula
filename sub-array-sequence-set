@@ -1,0 +1,14 @@
+a={1,2,3,4,5}
+subarray:
+    contiguous part of array-n*(n+1)/2
+   {1,,2}
+   {4,5}
+subsequence:
+   may not be contiguous but maintain the relative order-2pow(n)-1
+   {1,3,4}
+   {3,5}
+subsequence:
+   May not be contiguous and may not be in order
+   {5,4}
+   {3,2,1}
+   
